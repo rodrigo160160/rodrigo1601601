@@ -60,8 +60,8 @@ Dar exemplos
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
-
-HTML:
+O programa usado para editar os códigos de HTML e CSS, foi o VS CODE.
+Os principais códigos e tags usados no html.
 <!DOCTYPE html>: Define a versão e tipo do HTML utilizado.
 <html lang="pt-br">: Define a raiz do documento HTML e especifica o idioma como português brasileiro.
 <head>: Contém metadados, como o título da página, referências a estilos e configurações.
@@ -73,7 +73,7 @@ HTML:
 Contém seções <section> para cada planeta do sistema solar, como Mercúrio, Vênus, etc.
 Cada seção contém uma imagem do planeta e uma descrição <p>.
 <footer>: Rodapé da página contendo informações de direitos autorais.
-CSS:
+Seletores e classes do CSS:
 body: Estiliza o corpo da página.
 h1: Estiliza os títulos de nível 1.
 .intro-paragraph: Estiliza o parágrafo introdutório.
@@ -97,12 +97,8 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Rodrigo Nogueira (https://github.com/rodrigo160160)
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 📄 Licença
 
