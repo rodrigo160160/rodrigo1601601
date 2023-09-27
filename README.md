@@ -1,7 +1,7 @@
 # rodrigo1601601
-# Título do projeto
+Site do sistema solar
 
-Um parágrafo da descrição do projeto vai aqui
+Um site projeado no VS Code, com o tema básico de atronomia, focado nos planetas que compoem os sistema solar. O Site foi feito através de técnicas conhecidas e aprendidas em aulas, usando as ferrmanetas e conhecimentos sobre a linguagem de HTML e CSS.
 
 ## 🚀 Começando
 
@@ -61,11 +61,31 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+HTML:
+<!DOCTYPE html>: Define a versão e tipo do HTML utilizado.
+<html lang="pt-br">: Define a raiz do documento HTML e especifica o idioma como português brasileiro.
+<head>: Contém metadados, como o título da página, referências a estilos e configurações.
+<meta charset="UTF-8">: Define a codificação de caracteres como UTF-8.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Configura a escala inicial e a largura do dispositivo.
+<title>Sistema Solar</title>: Título da página exibido na aba do navegador.
+<link rel="stylesheet" href="/style.css">: Vincula o arquivo CSS externo ao documento HTML.
+<body>: Contém o conteúdo visível da página.
+Contém seções <section> para cada planeta do sistema solar, como Mercúrio, Vênus, etc.
+Cada seção contém uma imagem do planeta e uma descrição <p>.
+<footer>: Rodapé da página contendo informações de direitos autorais.
+CSS:
+body: Estiliza o corpo da página.
+h1: Estiliza os títulos de nível 1.
+.intro-paragraph: Estiliza o parágrafo introdutório.
+p: Estiliza os parágrafos dentro da classe .intro-paragraph.
+a: Estiliza os links dentro do parágrafo introdutório.
+a:hover: Estiliza os links quando estão sendo hovereados.
+.w3-top, .w3-bar, .w3-bar a, .w3-bar a:hover: Estilos para a barra de navegação.
+section: Estiliza as seções para cada planeta.
+h2: Estiliza os títulos de nível 2 dentro das seções.
+p: Estiliza os parágrafos dentro das seções.
+footer: Estiliza o rodapé.
+p: Estiliza os parágrafos dentro do rodapé.
 
 ## 🖇️ Colaborando
 
