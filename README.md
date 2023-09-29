@@ -2,7 +2,7 @@
 Site do sistema solar
 
 Um site projeado no VS Code, com o tema básico de atronomia, focado nos planetas que compoem os sistema solar. O Site foi feito através de técnicas conhecidas e aprendidas em aulas, usando as ferrmanetas e conhecimentos sobre a linguagem de HTML e CSS.
-
+https://sistemasolarrodrigonogueira.netlify.app/
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
