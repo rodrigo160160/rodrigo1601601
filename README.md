@@ -5,9 +5,11 @@ Um site projeado no VS Code, com o tema básico de atronomia, focado nos planeta
 https://sistemasolarrodrigonogueira.netlify.app/
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Obtenção do Código: Comece adquirindo o código. Utilize o comando git clone seguido pelo link do repositório para trazer o código para o seu ambiente local.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Entrando no Projeto: Após a aquisição, navegue até o diretório do projeto usando cd nome-do-diretorio.O nome do diretório esta como ''sistema solar''.
+
+Visualizando o Projeto: Para dar uma olhada no que temos, abra o arquivo index.html em seu navegador preferido.
 
 ### 📋 Pré-requisitos
 
@@ -15,7 +17,7 @@ Antes de começar, é necessário garantir que você tenha os seguintes elemento
 
 Navegador web: Certifique-se de possuir um navegador web moderno instalado, como Google Chrome, Mozilla Firefox, Microsoft Edge ou Safari, para visualizar e interagir com o aplicativo.
 
-Editor de texto: Você precisará de um editor de texto para visualizar, editar e trabalhar nos arquivos HTML e CSS do projeto. Algumas sugestões de editores incluem Visual Studio Code, Sublime Text, Atom ou Notepad++.
+Editor de texto: Você precisará de um editor de texto para visualizar, editar e trabalhar nos arquivos HTML e CSS do projeto. Algumas sugestões de editores incluem Visual Studio Code, Sublime Text, Atom ou Notepad++. Neste caso foi usado o VS Code.
 
 
 
@@ -81,19 +83,9 @@ p: Estiliza os parágrafos dentro das seções.
 footer: Estiliza o rodapé.
 p: Estiliza os parágrafos dentro do rodapé.
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
 ## ✒️ Autores
 
 Rodrigo Nogueira (https://github.com/rodrigo160160)
 
 
-## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
